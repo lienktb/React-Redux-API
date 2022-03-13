@@ -1,0 +1,10 @@
+.active {
+    background-color: rgb(58, 58, 58);
+    border-radius: 10px;
+    transition: all 0.4s ease-in-out;
+}
+
+.active>a{
+    color: white!important;
+
+}
